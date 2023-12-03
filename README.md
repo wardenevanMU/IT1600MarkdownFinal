@@ -5,6 +5,7 @@
 College is a big change of pace from High School. 
 <br/>
 Here are 8 tips to help you strive and make a name for yourself in College.
+<br/>
 Select any of the following tips for a more detailed explanation.
 
 - [Attend your classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md).
