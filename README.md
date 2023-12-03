@@ -18,7 +18,7 @@ Select any of the following tips for a more detailed explanation.
 
 
 If you need any additional help, click through the links to various videos below:
-- Video 1
+- [Video 1](https://www.youtube.com/watch?v=j9O7FJAG2J4)
 - Video 2
 - Video 3
 
