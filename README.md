@@ -1,4 +1,4 @@
-# How to Succeed in College
+# How to succeed in College
 
 > “If I was going to be successful, I had to be successful with myself. I couldn’t be successful doing what other people were doing.” - Jay Z
 
