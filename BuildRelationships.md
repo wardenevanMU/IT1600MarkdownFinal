@@ -12,6 +12,10 @@ Be Approachable: Keep your head up, walk with good posture, make eye contact, an
 speak to others.
 
 Refer to this video for some extra insight -> [Building Relationships](https://www.youtube.com/watch?v=ZGMGTbQeWSQ)
+<br/>
+
+![images](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/7d71649e-4861-4e24-b193-8e135e240b27)
+<br/>
 
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
