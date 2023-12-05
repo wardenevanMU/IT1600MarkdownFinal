@@ -16,5 +16,11 @@ If you need to arrange housing, knowing your class schedule early can be importa
 
 Here is a helpful video over this tip -> [All About Registering for Your Classes](https://www.youtube.com/watch?v=ckgfp_vNmG4)
 
-[Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md)
-| [Attend Classes] | [Build Relationships] | [Internships] | [Teacher Assitant Hours] | [Organization] | [Sleep] | [Workout]
+[Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md)| 
+[Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)| 
+[Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md) |
+[Teacher Assitant Hours](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/TAHours.md) |
+[Internships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Internships.md) | 
+[Organization](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Organization.md) | 
+[Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Sleep.md) | 
+[Workout](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Workout.md)
