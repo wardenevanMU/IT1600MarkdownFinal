@@ -16,9 +16,9 @@ Networking Opportunities: Classroom discussions and group activities provide opp
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
 [Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md) |
 [Teacher Assitant Hours](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/TAHours.md) |
-[Internships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Internships.md) | 
+[Apply for Internships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Internships.md) | 
 [Organization](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Organization.md) | 
-[Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Sleep.md) | 
+[Get Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Sleep.md) | 
 [Workout](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Workout.md)
 <br/> 
 
