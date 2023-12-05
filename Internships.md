@@ -3,6 +3,8 @@
 Internships are a good way to obtain real-world experience in the field you study. 
 <br/>
 Typically you will begin your application process in your third year.
+<br/>
+Intern applications can be found on employers' LinkedIn profiles and through their websites.
 
 Here are some steps to follow:
 - Have an updated field-specific resume
