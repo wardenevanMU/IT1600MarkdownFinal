@@ -13,9 +13,11 @@ not be a one-way road. These mentors down the road could help you out with recom
 
 Shows Initiative: If the teacher and their assistants see you applying yourself in the support hours they provide, you are more likely to be on their good side (as long as you are actively learning).
 <br/>
+[Day in the Life of a Teacher Assistant](https://www.youtube.com/watch?v=KznS5cXprIQ)
+<br/>
 ![download](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/ecf0349d-8f7b-4233-8cc7-c5972243e8ff)
 
-[Day in the Life of a Teacher Assistant](https://www.youtube.com/watch?v=KznS5cXprIQ)
+
 
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
