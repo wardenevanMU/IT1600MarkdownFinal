@@ -12,6 +12,7 @@ Access to Additional Resources: Professors often share valuable resources, examp
 
 Networking Opportunities: Classroom discussions and group activities provide opportunities to interact with fellow students. Building a network can be valuable for academic collaboration, sharing resources, and forming study groups.
 <br/>
+
 ![download (1)](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/62152c30-1a50-40b2-9a02-c918926aac31)
 
 <br/>
