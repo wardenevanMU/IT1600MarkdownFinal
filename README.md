@@ -26,5 +26,3 @@ Select any of the following tips for a more detailed explanation.
 - [Day in the Life of a College Student](https://www.youtube.com/watch?v=-hHWKyfZHnI)
 - [20 Habits of Successful College Students](https://www.youtube.com/watch?v=NZqOHYzGmRo)
 - [Straight A's](https://www.youtube.com/watch?v=g0hzohNz9VE)
-
-Click here for a summary
