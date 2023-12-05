@@ -1,4 +1,5 @@
 # 8 tips for a successful college experience
+Title: College Tutorial
 Author: Evan Warden
 <br/>
 This GitHub repository is a guide/tutorial on actions you can do to make the most out of your college experience.
