@@ -12,7 +12,7 @@ A few things you can do to stay organized:
 - Prioritize more difficult tasks first.
 - Color code your notes.
 
-[How to Stay Organized](https://www.youtube.com/watch?v=6OjLzkHcTeY)
+Check out this video on: [How to Stay Organized](https://www.youtube.com/watch?v=6OjLzkHcTeY)
 <br/>
 
 ![download (2)](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/f2285445-ccec-48fd-92d1-403e7d2efd8d)
