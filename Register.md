@@ -24,6 +24,5 @@ Here is a helpful video over this tip -> [All About Registering for Your Classes
 [Organization](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Organization.md) | 
 [Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Sleep.md) | 
 [Workout](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Workout.md)
-
 <br/> 
 [Back to main page](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/README.md)
