@@ -7,6 +7,7 @@ For additional information, view these videos:
 - [Getting High Quality Sleep](https://www.youtube.com/watch?v=jXwTctzqr-Q)
 - [5 Steps to Improve your Sleep Routine](https://www.youtube.com/watch?v=YAfR-OZ2w3U)
 <br/>
+
 ![images (2)](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/e23666ea-399d-48e9-80ba-a4dadbe0e491)
 
 
