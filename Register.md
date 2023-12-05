@@ -15,6 +15,10 @@ Financial Aid and Housing Considerations: Some financial aid programs require th
 If you need to arrange housing, knowing your class schedule early can be important for planning.
 
 Here is a helpful video over this tip -> [All About Registering for Your Classes](https://www.youtube.com/watch?v=ckgfp_vNmG4)
+<br/>
+
+![1637590537516_newmyzou-addaclass-1](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/8fa66bf2-9f0a-447a-9076-897024c02d60)
+<br/>
 
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
