@@ -1,4 +1,4 @@
-# Attend your classes
+# Attend your Classes
 
 Academic Engagement: Attending classes allows you to actively engage with course materials, discussions, and lectures. This engagement is essential for a deeper understanding of the subject matter.
 
