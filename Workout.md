@@ -4,7 +4,8 @@ Working out and developing a healthy relationship with the gym is vital.
 <br/>
 
 Exercise is linked to improved cognitive function, better sleep quality, increased energy levels, and much more.
-Getting started can be hard in a new environment.
+<br/>
+Getting started can be hard.
 
 Here are a few videos to get yourself started in the gym setting for newcomers:
 - [TNF Podcast](https://www.youtube.com/watch?v=0I4lB_owK6c)
