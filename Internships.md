@@ -12,7 +12,6 @@ Here are some steps to follow:
 - Send out as many applications as you can
 
 [Applying for an Internship with no Experience](https://www.youtube.com/watch?v=KynMm9ucC94)
-
 <br/>
 
 ![images (1)](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/e8fca312-b7ea-4065-b4d5-49d48c745cda)
