@@ -1,6 +1,16 @@
 # Sleep
 
 
+
+For additional information, view these videos:
+- [Dr Huberman](https://www.youtube.com/shorts/aPWjEMRwBcg)
+- [Getting High Quality Sleep](https://www.youtube.com/watch?v=jXwTctzqr-Q)
+- [5 Steps to Improve your Sleep Routine](https://www.youtube.com/watch?v=YAfR-OZ2w3U)
+<br/>
+![images (2)](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/e23666ea-399d-48e9-80ba-a4dadbe0e491)
+
+
+
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
 [Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md) |
