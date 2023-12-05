@@ -20,7 +20,7 @@ Select any of the following tips for a more detailed explanation.
 
 If you need any additional help, click through the links to various videos below:
 - [Crash Course on How to Prepare for College](https://www.youtube.com/watch?v=158aX-gyHU4)
-- Video 2
-- Video 3
+- [20 Habits of Successful College Students](https://www.youtube.com/watch?v=NZqOHYzGmRo)
+- [Straight A's](https://www.youtube.com/watch?v=g0hzohNz9VE)
 
 
