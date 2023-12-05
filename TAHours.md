@@ -15,10 +15,9 @@ Shows Initiative: If the teacher and their assistants see you applying yourself 
 <br/>
 [Day in the Life of a Teacher Assistant](https://www.youtube.com/watch?v=KznS5cXprIQ)
 <br/>
+
 ![download](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/ecf0349d-8f7b-4233-8cc7-c5972243e8ff)
-
-
-
+<br/>
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
 [Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md) |
