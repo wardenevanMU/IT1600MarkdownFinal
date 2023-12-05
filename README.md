@@ -1,4 +1,4 @@
-# 8 Action Steps for a successful college experience
+# 8 Action Steps for a Successful College Experience
 Title: College Tutorial
 <br/>
 Author: Evan Warden
