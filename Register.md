@@ -15,3 +15,5 @@ Financial Aid and Housing Considerations: Some financial aid programs require th
 If you need to arrange housing, knowing your class schedule early can be important for planning.
 
 Here is a helpful video over this tip -> [All About Registering for Your Classes](https://www.youtube.com/watch?v=ckgfp_vNmG4)
+
+Register Early | Attend Classes | Build Relationships |
