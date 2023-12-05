@@ -1,6 +1,15 @@
-# Use Teacher Assistant Hours
+# Teacher Assistant Hours
 
+This is one of the most crucial steps to take when in College.
 
+Feedback: Teacher assistants are the ones who grade your labs, projects, and papers. Look through your syllabus and check the hours that each of your assistants are available. Make time to go to campus or meet them on Zoom.
+They can contribute to your academic strength.
+
+Test Preparation:
+
+Relationship Building:
+
+Clarification: 
 
 
 
