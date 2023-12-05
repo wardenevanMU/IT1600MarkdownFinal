@@ -8,7 +8,7 @@ Summary: This GitHub repository is a guide/tutorial on actions you can do to mak
 Target Audience: The project's target audience is current college students and high school seniors making their way to campus.
 <br/>
 
-Here are 8 tips to help you strive and make a name for yourself in College.
+Here are 8 steps to help you strive and be the best you can be in College.
 <br/>
 Select any of the following tips for a more detailed explanation.
 <br/>
