@@ -1,8 +1,16 @@
 # Sleep
 
+Proper sleep is an essential component of being healthy. 
+<br/>
+As a college student, you should aim for 7-9 hours of sleep per night. Anything less and you are missing out on REM sleep cycles.
+<br/>
+Adequate amounts of sleep lead to cardiovascular and metabolic health. Additional benefits include:
+- Hormonal Balance
+- Reduced Inflammation
+- Increased Physical Performance
 
-
-For additional information, view these videos:
+But how do you get enough sleep?
+These videos will help:
 - [Dr Huberman](https://www.youtube.com/shorts/aPWjEMRwBcg)
 - [Getting High Quality Sleep](https://www.youtube.com/watch?v=jXwTctzqr-Q)
 - [5 Steps to Improve your Sleep Routine](https://www.youtube.com/watch?v=YAfR-OZ2w3U)
