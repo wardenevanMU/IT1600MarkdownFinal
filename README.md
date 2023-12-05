@@ -1,4 +1,4 @@
-# 8 Tips for a successful college experience
+# 8 tips for a successful college experience
 
 > “If I was going to be successful, I had to be successful with myself. I couldn’t be successful doing what other people were doing.” - Jay Z
 
@@ -12,8 +12,8 @@ Select any of the following tips for a more detailed explanation.
 - [Attend Your Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 - [Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md)
 - [Engage in Teacher Assistant Hours](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/TAHours.md)
-- [Apply for Internships Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
-- [Stay Organized](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
+- [Apply for Internships Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Internships.md)
+- [Stay Organized](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Organization.md)
 - [Get Enough Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 - [Exercise Routinely](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 
