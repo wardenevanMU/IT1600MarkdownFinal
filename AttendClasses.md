@@ -14,7 +14,6 @@ Networking Opportunities: Classroom discussions and group activities provide opp
 <br/>
 
 ![download (1)](https://github.com/wardenevanMU/IT1600MarkdownFinal/assets/98150291/62152c30-1a50-40b2-9a02-c918926aac31)
-
 <br/>
 
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
