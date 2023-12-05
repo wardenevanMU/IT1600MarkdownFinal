@@ -1,4 +1,7 @@
 # 8 tips for a successful college experience
+Author: Evan Warden
+This GitHub repository is a guide/tutorial on actions you can do to make the most out of your college experience.
+The project's target audience is current college students and high school seniors making their way to campus.
 
 College is a big change of pace from High School. 
 <br/>
