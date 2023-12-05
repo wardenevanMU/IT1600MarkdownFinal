@@ -3,9 +3,9 @@ Title: College Tutorial
 <br/>
 Author: Evan Warden
 <br/>
-This GitHub repository is a guide/tutorial on actions you can do to make the most out of your college experience.
+Summary: This GitHub repository is a guide/tutorial on actions you can do to make the most out of your college experience.
 <br/>
-The project's target audience is current college students and high school seniors making their way to campus.
+Target Audience: The project's target audience is current college students and high school seniors making their way to campus.
 <br/>
 
 Here are 8 tips to help you strive and make a name for yourself in College.
