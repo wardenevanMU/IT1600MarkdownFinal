@@ -11,6 +11,8 @@ Attend Networking Events: Lectures, Career Fairs, and other networking events ar
 Be Approachable: Keep your head up, walk with good posture, make eye contact, and portray yourself as someone others should make friends with. Try not to wear headphones everywhere you go as it limits your opportunity to 
 speak to others.
 
+Refer to this video for some extra insight -> [Building Relationships](https://www.youtube.com/watch?v=ZGMGTbQeWSQ)
+
 [Register Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Register.md) | 
 [Attend Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md) | 
 [Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md) |
