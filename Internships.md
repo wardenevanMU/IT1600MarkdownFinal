@@ -1,9 +1,17 @@
 # Apply for Internships
 
-Internships are a good way to obtain real-world experience in the field you study.
+Internships are a good way to obtain real-world experience in the field you study. 
+<br/>
 Typically you will begin your application process in your third year.
 
-Here are some steps to follow
+Here are some steps to follow:
+- Have an updated field-specific resume
+- Create a linked-in page
+- Research the company you would like to apply to
+- Network with school internship employers
+- Send out as many applications as you can
+
+[Applying for an Internship with no Experience](https://www.youtube.com/watch?v=KynMm9ucC94)
 
 <br/>
 
