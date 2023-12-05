@@ -1,7 +1,8 @@
 # Stay Organized
 
 Organization is a life skill.
-Being on top of assignments can reduce stress and keep you grounded.
+<br/>
+Staying on top of assignments can reduce stress and keep you grounded.
 
 A few things you can do to stay organized: 
 - Use a calendar. Canvas and Blackboard have a built-in customizable calendar. 
