@@ -1,6 +1,7 @@
 # Attend your classes
 
-Academic Engagement: Attending classes allows you to actively engage with course materials, discussions, and lectures. This engagement is essential for a deeper understanding of the subject matter.
+Academic Engagement: 
+- Attending classes allows you to actively engage with course materials, discussions, and lectures. This engagement is essential for a deeper understanding of the subject matter.
 
 Interaction with Professors: Regular class attendance provides opportunities to interact with professors. Professors can clarify concepts, provide additional insights, and offer guidance on assignments and exams.
 
