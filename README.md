@@ -8,7 +8,7 @@ Here are 8 tips to help you strive and make a name for yourself in College.
 <br/>
 Select any of the following tips for a more detailed explanation.
 
-- [Attend your classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md).
+- [Attend your classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 - [Build relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md)
 - [Engage in teacher assistant hours](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/TAHours.md)
 - [Apply for internships early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
