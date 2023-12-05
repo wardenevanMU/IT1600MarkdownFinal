@@ -21,8 +21,10 @@ Select any of the following tips for a more detailed explanation.
 - [Get Enough Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Sleep.md)
 - [Exercise Routinely](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Workout.md)
 
-If you need any additional help, click through the links to various videos below:
+*If you need any additional help, click through the links to various videos below:*
 - [Crash Course on How to Prepare for College](https://www.youtube.com/watch?v=158aX-gyHU4)
 - [Day in the Life of a College Student](https://www.youtube.com/watch?v=-hHWKyfZHnI)
 - [20 Habits of Successful College Students](https://www.youtube.com/watch?v=NZqOHYzGmRo)
 - [Straight A's](https://www.youtube.com/watch?v=g0hzohNz9VE)
+
+Click here for a summary
