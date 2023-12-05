@@ -1,4 +1,12 @@
-# Stick to an Exercise Routine
+# Workout
+
+
+
+
+Here are a few videos to get yourself started in the gym setting for newcomers:
+- [TNF Podcast](https://www.youtube.com/watch?v=0I4lB_owK6c)
+- 
+-
 
 
 
