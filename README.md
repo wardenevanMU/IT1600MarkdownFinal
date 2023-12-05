@@ -1,7 +1,5 @@
 # 8 tips for a successful college experience
 
-> “If I was going to be successful, I had to be successful with myself. I couldn’t be successful doing what other people were doing.” - Jay Z
-
 College is a big change of pace from High School. 
 <br/>
 Here are 8 tips to help you strive and make a name for yourself in College.
