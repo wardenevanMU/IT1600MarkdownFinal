@@ -15,7 +15,7 @@ Select any of the following tips for a more detailed explanation.
 - [Stay Organized](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 - [Get Enough Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 - [Exercise Routinely](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
-- [Register For Classes Early ](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
+- [Register For Classes Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 
 
 
