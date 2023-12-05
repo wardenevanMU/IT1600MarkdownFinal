@@ -16,7 +16,7 @@ Select any of the following tips for a more detailed explanation.
 - [Attend Your Classes](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/AttendClasses.md)
 - [Build Relationships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/BuildRelationships.md)
 - [Engage in Teacher Assistant Hours](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/TAHours.md)
-- [Apply for Internships Early](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Internships.md)
+- [Apply for Internships](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Internships.md)
 - [Stay Organized](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Organization.md)
 - [Get Enough Sleep](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Sleep.md)
 - [Exercise Routinely](https://github.com/wardenevanMU/IT1600MarkdownFinal/blob/Master/Workout.md)
